@@ -1,0 +1,1 @@
+# 22060006_kawabata_AIprogramingkadai2
