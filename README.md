@@ -28,11 +28,11 @@ PokeAPI: ポケモンの情報を取得するための無料・オープンソ�
 
 ## システム設計図
 
-![システム設計図](./assets/system_design.png)
+![システム設計図](app\assets\system_design.png)
 
 ## コード説明図
 
-![コード説明図](./assets/code_explanation.png)
+![コード説明図](app\assets\code_explanation.png)
 
 Streamlit Cloud
 https://kadai2.streamlit.app/
