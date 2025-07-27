@@ -35,4 +35,4 @@ PokeAPI: ポケモンの情報を取得するための無料・オープンソ�
 ![コード説明図](./assets/code_explanation.png)
 
 Streamlit Cloud
-[あなたのStreamlit CloudアプリURL]
+https://kadai2.streamlit.app/
