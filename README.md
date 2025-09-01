@@ -1,6 +1,6 @@
 # 22060006_川端美羽_AIprograming課題2
 
-improvement.md (C:\AIプログラミング4\improvement.md)
+##improvement.md (C:\AIプログラミング4\improvement.md)
 
  - ポケモン図鑑アプリ     
 
