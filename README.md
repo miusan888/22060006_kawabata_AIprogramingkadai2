@@ -1,6 +1,8 @@
 # 22060006_川端美羽_AIprograming課題2
 
-## improvement.md (C:\AIプログラミング4\improvement.md)
+## 改善案（課題3）
+
+[improvement.mdはこちら](https://github.com/miusan888/22060006_kawabata_AIprogramingkadai2/blob/main/improvement.md)
 
  - ポケモン図鑑アプリ     
 
