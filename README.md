@@ -1,6 +1,8 @@
 # 22060006_川端美羽_AIprograming課題2
 
- - ポケモン図鑑アプリ
+## improvement.md (C:\AIプログラミング4\improvement.md)
+
+ - ポケモン図鑑アプリ     
 
  概要
 ポケモン図鑑Webアプリケーション
@@ -33,6 +35,8 @@ PokeAPI: ポケモンの情報を取得するための無料・オープンソ�
 ## コード説明図
 
 ![コード説明図](./assets/code_explanation.png)
+
+
 
 Streamlit Cloud
 https://kadai2.streamlit.app/
